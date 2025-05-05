@@ -1,1 +1,2 @@
 Ganar la misma soltura en frontEnd que en backend
+Aprender la filosofia NonSQL y sentirme comodo como con SQL
