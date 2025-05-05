@@ -4,3 +4,4 @@ Java
 Delphi
 mySQL, PostgreSQL, DB2
 PHP
+Crystal Reports, Jasper, PowerBI
