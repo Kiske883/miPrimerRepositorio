@@ -1,0 +1,6 @@
+HTML / CSS
+JavaScript / typeScript
+Java
+Delphi
+mySQL, PostgreSQL, DB2
+PHP
